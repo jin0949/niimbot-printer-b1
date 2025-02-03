@@ -51,4 +51,3 @@ pytest test_niimbot.py
 - 에러 발생시 상세 로그 확인 가능
 
 ---
-Perplexity로부터의 답변: pplx.ai/share
